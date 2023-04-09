@@ -10,7 +10,7 @@
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- 📖 I’m currently learning **Flutter**
+- 📖 I’m currently learning **Python**
 
 
 <!-- - <span style="display: flex; align-items:center; gap: 6px" >📫 How to reach me :
