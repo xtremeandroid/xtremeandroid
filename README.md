@@ -56,7 +56,7 @@
   <a href="https://in.linkedin.com/in/ayushharendrasingh" target="_blank">
     <img style="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:xtremeandpvt@gmail.com" target="_blank">
+  <a href="mailto:ayushsinghcareers@gmail.com" target="_blank">
     <img style="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://instagram.com/heyy_ayush" target="_blank">
