@@ -16,8 +16,6 @@
 <!-- - <span style="display: flex; align-items:center; gap: 6px" >📫 How to reach me :
   <a style="display: flex; align-items:center; gap: 6px" href="mailto:deongracias1@gmail.com" target="_blank"><img style="height: 22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></span> -->
 
-- ⚡ Fun fact: I use **Arch** btw !</span>
-
 ---
 
 ### Technical Skills
@@ -59,12 +57,12 @@
   <a href="mailto:ayushsinghcareers@gmail.com" target="_blank">
     <img style="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://instagram.com/heyy_ayush" target="_blank">
+<!--   <a href="https://drive.google.com/file/d/13oxZvlSSPzmt0gKFN63SEacct9SWIaOL/view?usp=sharing" target="_blank">
     <img style="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ig" />
-  </a>
-  <a href="https://twitter.com/heyy_ayush" target="_blank">
+  </a> -->
+<!--   <a href="https://twitter.com/heyy_ayush" target="_blank">
     <img style="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ig" />
-  </a>
+  </a> -->
 
 ---
 
