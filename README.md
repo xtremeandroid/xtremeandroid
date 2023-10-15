@@ -51,6 +51,9 @@
 ### Socials
 
 <center>
+  <a href="https://ayushhsingh.netlify.app/" target="blank">
+    <img style="" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio-website" />
+  </a>
   <a href="https://in.linkedin.com/in/ayushharendrasingh" target="_blank">
     <img style="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
