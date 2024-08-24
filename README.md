@@ -6,13 +6,6 @@
 <!-- Cover -->
 
 
-<!--- 🔭 I’m currently working on ... -->
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-
-- 📖 I’m currently learning **Full Stack Web Development**
-
-
 <!-- - <span style="display: flex; align-items:center; gap: 6px" >📫 How to reach me :
   <a style="display: flex; align-items:center; gap: 6px" href="mailto:deongracias1@gmail.com" target="_blank"><img style="height: 22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></span> -->
 
